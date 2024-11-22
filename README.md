@@ -1,6 +1,4 @@
-Thanks for sharing! Here's an updated version of the README for your GitHub profile:
 
----
 
 ```markdown
 <h1 align="center">Hi 👋, I'm Ritik</h1>
