@@ -1,3 +1,8 @@
+Thanks for sharing! Here's an updated version of the README for your GitHub profile:
+
+---
+
+```markdown
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate MERN stack developer and React Native enthusiast 🚀</h3>
 
@@ -46,9 +51,9 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikweb22&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=ritik-web&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-web&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikWeb22&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikWeb22&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikWeb22&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
