@@ -1,6 +1,3 @@
-
-
-```markdown
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate MERN stack developer and React Native enthusiast 🚀</h3>
 
