@@ -1,70 +1,126 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">MERN Stack Developer | React Native Enthusiast | Open to Full-Time, Freelance & Internship Roles</h3>
+<h3 align="center">Full Stack Developer (MERN) | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+;Full-Stack+Web+Developer;React+Native+App+Builder;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+  <a href="https://github.com/RitikWeb22">
+    <img src="https://komarev.com/ghpvc/?username=RitikWeb22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BCA Student focused on web & mobile development  
-- 🌱 Currently learning **Advanced React Native & Backend APIs**  
-- 🚀 Building **real-world full-stack projects** using modern UI/UX  
-- 💬 Ask me about: **MERN Stack, React Native, REST APIs, Framer Motion**
-- 📫 Reach me at: **ritikweb30@gmail.com**
+# 👨‍💻 About Me
+
+I am a **Full Stack Developer specializing in the MERN stack**, focused on building scalable web applications and real-world production systems.
+
+- 🎓 BCA (Software Engineering) — **Amity University (2027)**
+- 🚀 Building **full-stack applications with modern architecture**
+- ⚡ Experienced in **REST API design, authentication systems, and performance optimization**
+- 🌱 Currently improving **system design and backend scalability**
+- 💼 Open to **Internship, Freelance, and Full-Time Opportunities**
+
+📫 **Contact:** ritikweb30@gmail.com
 
 ---
 
-### 🛠️ Tech Stack:
-<div align="center">
+# 🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Material_UI-000?style=for-the-badge&logo=mui&logoColor=007FFF"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=white"/>
+## 🎵 VIZO — Emotion-Based Music Recommendation Platform
 
-</div>
+Full-stack application that detects **facial emotions in real time** and recommends songs based on user mood.
 
----
+**Tech Stack**
 
-### 🌐 Connect with Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/ritik-03b8aa288" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ritikweb30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://ritik-web.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4285F4" alt="Portfolio"/>
-  </a>
-</div>
+React • Node.js • Express • MongoDB • Redis • MediaPipe Vision • ImageKit • JWT
+
+**Key Highlights**
+
+- Built a **real-time emotion detection pipeline** using MediaPipe Vision (~10–15 FPS webcam processing)
+- Designed scalable **REST APIs for authentication, song uploads, and mood-based queries**
+- Implemented **Redis caching** to improve API response latency by ~45%
+- Integrated **ImageKit CDN** for MP3 storage and optimized media delivery
+
+🔗 **Live Demo**  
+https://vizo-music.onrender.com/
+
+🔗 **Repository**  
+https://github.com/RitikWeb22/vizo-music
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitikWeb22&show_icons=true&theme=radical" alt="GitHub Stats" />
+## 🎬 PixelFlix — Movie Recommendation & Watchlist Platform
+
+Full-stack movie discovery platform with user personalization and admin management.
+
+**Tech Stack**
+
+React • Redux Toolkit • Node.js • Express • MongoDB • Redis • JWT
+
+**Key Highlights**
+
+- Developed a **movie discovery platform** supporting favorites, watchlists, and watch history
+- Implemented **JWT authentication with role-based access control**
+- Built an **admin dashboard** for managing movie catalog with secure CRUD operations
+- Optimized movie listing APIs using **Redis caching** (~40% faster responses)
+
+🔗 **Live Demo**  
+https://pixelflix-19at.onrender.com
+
+🔗 **Repository**  
+https://github.com/RitikWeb22/pixelFlix
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+JavaScript
+
+### Frontend
+React • HTML5 • CSS3 • Sass • Vite
+
+### Backend
+Node.js • Express.js
+
+### Databases
+MongoDB • Redis
+
+### Tools
+Git • GitHub • Postman
+
+### Core Concepts
+REST APIs • Authentication (JWT) • API Architecture • System Design Basics
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikWeb22&show_icons=true&theme=radical"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikWeb22&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikWeb22&theme=radical"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikWeb22&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikWeb22&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-### ✨ Fun Facts:
-- 🌏 I love exploring new places and cultures  
-- 🎧 Music & coding go hand-in-hand for me  
-- 🧠 Always curious to learn new tools & technologies  
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ritik-03b8aa288">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ritikweb30@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ritik22.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> ⭐ If you like my work, consider starring some of my repositories!
+⭐ If you find my projects useful, consider starring the repositories!
