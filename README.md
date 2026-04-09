@@ -41,21 +41,18 @@ These details are pulled from my GitHub profile and verified public repositories
 
 ## Pinned Repositories
 
-These cards are synced from the repositories pinned on my GitHub profile.
+This list is synced from the repositories pinned on my GitHub profile.
 
 <!-- PINNED_REPOS_START -->
-<p align="center">
-  <a href="https://github.com/RitikWeb22/ai-battle-areana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikWeb22&repo=ai-battle-areana&theme=radical" alt="ai-battle-areana" />
-  </a>
-  <br />
-  <a href="https://github.com/RitikWeb22/ai-dealer-breaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikWeb22&repo=ai-dealer-breaker&theme=radical" alt="ai-dealer-breaker" />
-  </a>
-</p>
+| Repository | Description | Language | Stars |
+|---|---|---|---|
+| [ai-battle-areana](https://github.com/RitikWeb22/ai-battle-areana) | No description provided | TypeScript | 0 |
+| [ai-dealer-breaker](https://github.com/RitikWeb22/ai-dealer-breaker) | No description provided | JavaScript | 0 |
+| [software-helper](https://github.com/RitikWeb22/software-helper) | No description provided | TypeScript | 0 |
+| [vizo-music](https://github.com/RitikWeb22/vizo-music) | No description provided | JavaScript | 0 |
 <!-- PINNED_REPOS_END -->
 
-If I update the pinned repositories on my GitHub profile, this section will follow automatically.
+If I update the pinned repositories on my GitHub profile, this section updates automatically.
 
 ## Tech Stack
 
@@ -76,11 +73,13 @@ If I update the pinned repositories on my GitHub profile, this section will foll
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitikWeb22&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRitikWeb22&query=%24.public_repos&label=Public%20Repos&color=0e75b6&style=for-the-badge" alt="public repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRitikWeb22&query=%24.followers&label=Followers&color=1f6feb&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRitikWeb22&query=%24.following&label=Following&color=238636&style=for-the-badge" alt="following" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikWeb22&theme=radical" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikWeb22&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ## Connect
