@@ -44,15 +44,15 @@ These details are pulled from my GitHub profile and verified public repositories
 This list is synced from the repositories pinned on my GitHub profile.
 
 <!-- PINNED_REPOS_START -->
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [ai-battle-areana](https://github.com/RitikWeb22/ai-battle-areana) | No description provided | TypeScript | 0 |
-| [ai-dealer-breaker](https://github.com/RitikWeb22/ai-dealer-breaker) | No description provided | JavaScript | 0 |
-| [software-helper](https://github.com/RitikWeb22/software-helper) | No description provided | TypeScript | 0 |
-| [vizo-music](https://github.com/RitikWeb22/vizo-music) | No description provided | JavaScript | 0 |
-<!-- PINNED_REPOS_END -->
 
-If I update the pinned repositories on my GitHub profile, this section updates automatically.
+| Repository                                                           | About                                                                                                                                                    | Tech Stack                                                                                                                                                                             | Language   |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [ai-battle-areana](https://github.com/RitikWeb22/ai-battle-areana)   | A modern AI comparison app where two model-generated solutions compete and a judge model scores both responses.                                          | React 19, TypeScript, Vite, Sass, Axios, React Markdown, Highlight.js, Node.js + Express 5, LangGraph / LangChain, Zod, Cohere, Mistral, Gemini providers                              | TypeScript |
+| [ai-dealer-breaker](https://github.com/RitikWeb22/ai-dealer-breaker) | DealBreaker AI is an AI-powered shopping negotiation platform where users can browse products, start a live voice negotiation, and compete for the be... | React 19, Vite, React Router, Tailwind CSS v4, Framer Motion, Vapi Web SDK, Node.js, Express 5, MongoDB, Mongoose, JWT, bcryptjs, Helmet, CORS, compression                            | JavaScript |
+| [software-helper](https://github.com/RitikWeb22/software-helper)     | AI-powered software planning workspace with a TypeScript backend and React frontend.                                                                     | React, TypeScript, Vite, Tailwind CSS, Node.js, Express, TypeScript, AI Orchestration: LangGraph + LangChain, Model provider integration: Groq model via LangChain adapter             | TypeScript |
+| [vizo-music](https://github.com/RitikWeb22/vizo-music)               | A full-stack face-driven music player that detects your emotional state through facial expressions and recommends songs that match your mood in real-... | Node.js, Express.js, MongoDB (with Mongoose ODM), Redis (ioredis), JWT + bcryptjs, File Upload: ImageKit + Multer, Metadata Processing: node-id3, React 19, Build Tool: Vite, Sass/... | JavaScript |
+
+<!-- PINNED_REPOS_END -->
 
 ## Tech Stack
 
