@@ -2,16 +2,17 @@
 
 # Ritik
 
-### Full Stack Developer focused on MERN applications, clean architecture, and production-ready user experiences.
+### Full Stack Developer focused on MERN, TypeScript, and AI-assisted product experiences.
 
 <p>
-  New Delhi, India · Building scalable web apps with JavaScript, React, Node.js, and MongoDB
+  New Delhi, India · Building scalable web apps with JavaScript, TypeScript, React, Node.js, and MongoDB
 </p>
 
 <p>
   <a href="https://github.com/RitikWeb22">
     <img src="https://komarev.com/ghpvc/?username=RitikWeb22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRitikWeb22&query=%24.public_repos&label=Public%20Repos&color=0e75b6&style=for-the-badge" alt="public repositories" />
   <img src="https://img.shields.io/github/followers/RitikWeb22?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Portfolio-ritik22.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   <img src="https://img.shields.io/badge/Email-ritikweb30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
@@ -21,10 +22,10 @@
 
 ## About
 
-I am Ritik, a full stack developer from New Delhi who builds scalable web applications with the MERN stack and modern frontend tools. My focus is on reliable authentication flows, well-structured REST APIs, and interfaces that feel polished in production.
+I am Ritik, a full stack developer from New Delhi who builds scalable web applications with the MERN stack, TypeScript, and modern AI workflows. My focus is on reliable authentication flows, well-structured REST APIs, and interfaces that feel polished in production.
 
 - BCA student in Software Engineering at Amity University, graduating in 2027
-- Working with React, TypeScript, Node.js, Express, MongoDB, Redis, and JWT-based authentication
+- Working with React, TypeScript, Node.js, Express, MongoDB, Redis, LangChain, LangGraph, and JWT-based authentication
 - Comfortable building product features end-to-end, from UI to backend services
 - Open to internship, freelance, and full-time opportunities
 
@@ -34,50 +35,39 @@ These details are pulled from my GitHub profile and verified public repositories
 
 - GitHub: [RitikWeb22](https://github.com/RitikWeb22)
 - Location: New Delhi
-- Public repositories: 127
 - Followers: 2
 - Following: 1
 - Portfolio: [ritik22.vercel.app](https://ritik22.vercel.app/)
 
-## Featured Work
+## Pinned Repositories
 
-### VIZO - Emotion-Based Music Recommendation Platform
+These cards are synced from the repositories pinned on my GitHub profile.
 
-A full-stack application that detects facial emotions in real time and recommends songs based on mood.
+<!-- PINNED_REPOS_START -->
+<p align="center">
+  <a href="https://github.com/RitikWeb22/ai-battle-areana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikWeb22&repo=ai-battle-areana&theme=radical" alt="ai-battle-areana" />
+  </a>
+  <br />
+  <a href="https://github.com/RitikWeb22/ai-dealer-breaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikWeb22&repo=ai-dealer-breaker&theme=radical" alt="ai-dealer-breaker" />
+  </a>
+</p>
+<!-- PINNED_REPOS_END -->
 
-Tech stack: React, Node.js, Express, MongoDB, Redis, MediaPipe Vision, ImageKit, JWT
-
-- Real-time emotion detection using webcam input
-- REST APIs for authentication, uploads, and mood-based song recommendations
-- Redis caching for faster API responses and smoother playback flows
-- ImageKit integration for media delivery and storage
-
-[Live Demo](https://vizo-music.onrender.com/) · [Repository](https://github.com/RitikWeb22/vizo-music)
-
-### PixelFlix - Movie Recommendation and Watchlist Platform
-
-A movie discovery platform with personalization, watchlists, history tracking, and admin workflows.
-
-Tech stack: React, Redux Toolkit, Node.js, Express, MongoDB, Redis, JWT
-
-- User features for favorites, watchlists, and watch history
-- JWT authentication with role-based access control
-- Admin dashboard for catalog management and secure CRUD operations
-- Redis-backed optimization for faster listing and browsing flows
-
-[Live Demo](https://pixelflix-19at.onrender.com) · [Repository](https://github.com/RitikWeb22/pixelFlix)
+If I update the pinned repositories on my GitHub profile, this section will follow automatically.
 
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript
 
-**Frontend:** React, HTML5, CSS3, Sass, Vite, Redux Toolkit
+**Frontend:** React, HTML5, CSS3, Sass, Vite, Tailwind CSS, Redux Toolkit
 
 **Backend:** Node.js, Express.js, JWT
 
 **Database and Cache:** MongoDB, Redis
 
-**AI / GenAI:** OpenAI, Google GenAI
+**AI / GenAI:** OpenAI, Google GenAI, LangChain, LangGraph, Groq
 
 **Tools:** Git, GitHub, Postman
 
